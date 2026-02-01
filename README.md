@@ -18,8 +18,3 @@ Tech Stack:
 ## Project Structure
 /backend  → Express API  
 /frontend → React app  
-
-## Setup
-```bash
-npm install
-npm install --prefix frontend
